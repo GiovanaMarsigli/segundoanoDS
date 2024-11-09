@@ -1,4 +1,4 @@
-Repositório de Tarefas - 2º Ano de ADS
+# Repositório de Tarefas - 2º Ano de ADS
 
 Este repositório contém os projetos e atividades do 2º ano do curso de Análise e Desenvolvimento de Sistemas (AMS). Aqui são armazenados os exercícios práticos, trabalhos e desafios de programação realizados ao longo do semestre.
 
