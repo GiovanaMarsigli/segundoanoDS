@@ -4,9 +4,9 @@ Este repositório contém os projetos e atividades do 2º ano do curso de Análi
 
 ## Estrutura
 
-- **/projetos**: Contém projetos desenvolvidos nas disciplinas.
-- **/exercicios**: Exemplos de exercícios resolvidos.
-- **/trabalhos**: Trabalhos acadêmicos e projetos de maior porte.
+- **Projetos**: Contém projetos desenvolvidos nas disciplinas.
+- **Exercicios**: Exemplos de exercícios resolvidos.
+- **Trabalhos**: Trabalhos acadêmicos e projetos de maior porte.
 
 ## Objetivo
 
